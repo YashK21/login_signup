@@ -1,6 +1,6 @@
 import "./App.css";
 import Login from "./comp/Login";
-import Singup from "./comp/Singup";
+// import Singup from "./comp/Singup";
 
 function App() {
   return (
